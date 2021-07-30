@@ -12,7 +12,7 @@
 <br />
 
 <div align="center">
-  :coffee::computer: Software engineering specialist at <a href="https://bynd.com" target="_blank">Beyond</a> :crystal_ball::rocket:
+  :coffee::computer: Senior software engineer at <a href="https://bynd.com" target="_blank">Beyond</a> :crystal_ball::rocket:
 </div>
 
 <br />
