@@ -18,6 +18,7 @@
 <br />
 
 <div align="center">
+  <!--
   <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://img.shields.io/badge/-nodejs-green?style=for-the-badge">
   </a>
@@ -33,6 +34,7 @@
   <a href="https://www.rust-lang.org/" target="_blank">
     <img src="https://img.shields.io/badge/-rust-dea584?style=for-the-badge">
   </a>
+  -->
 
   <!--
   <a href="" target="_blank">
