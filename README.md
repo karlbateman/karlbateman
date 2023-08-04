@@ -3,9 +3,7 @@
 </h1>
 
 <div align="center">
-  <strong>
-    I hear, I know. I see, I remember. I do, I understand.
-  </strong>
+  <q>I hear, I know. I see, I remember. I do, I understand.</q><br>
   — <a href="https://plato.stanford.edu/entries/confucius/">Confucius</a>
 </div>
 
